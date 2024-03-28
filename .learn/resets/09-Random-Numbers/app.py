@@ -5,4 +5,4 @@ def get_randomInt():
 	random_number = random.random()
 	return random_number
 
-print(random.randint(1,10))
+print(get_randomInt())

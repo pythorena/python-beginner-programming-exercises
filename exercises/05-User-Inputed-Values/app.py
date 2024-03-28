@@ -1,4 +1,6 @@
-age = int(input('What is your age?\n'))
+#age = int(input('What is your age?\n'))
 # ✅ ↓ CHANGE THE CODE BELOW TO ADD 10 TO AGE ↓ ✅
 
-print("Your age is: "+str(age))
+#print("Your age is: "+str(age))
+age = int(input('Qué edad tienes?\n'))
+print (age)

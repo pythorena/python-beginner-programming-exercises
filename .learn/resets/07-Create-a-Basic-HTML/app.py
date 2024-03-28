@@ -11,5 +11,3 @@ h = '<body>'
 
 # ✅ ↓ start coding below here ↓ ✅
 
-html_document=a+b+c+d+e+f+g+h
-print(html_document)
